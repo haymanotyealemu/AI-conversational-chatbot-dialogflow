@@ -1,1 +1,1 @@
-![Intent Setup](screenshots/intent-setup.png)
+![Intents Setup](screenshots/intents-setup.png)
